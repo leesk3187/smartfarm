@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "tabnav",
+    "slug": "snack-625d4198-46cf-47f6-afc1-3d63c3dfd700",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "extra": {
+      "openaiApiKey": "",
+      "kakaoApiKey": ""
+    }
+  }
+}

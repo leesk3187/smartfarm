@@ -1,0 +1,6 @@
+.custom-datepicker {
+    width: 200px; /* 달력의 너비를 조정 */
+    height: auto; /* 자동 높이 조정 */
+    z-index: 2; /* 달력의 z-index를 높게 설정 */
+  }
+  
